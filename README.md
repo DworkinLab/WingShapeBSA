@@ -12,7 +12,7 @@ All data is pool sequencing data. Reads are 150 BP paired end sequencing.
 
 This project consists of two primary "experiments": 
 
-1. Response to selection. Using a sythetic outbread population, lines were selected for 7 generations based on similarity to shape chage vector (either *ds* or *emc*). Pools consist of 75 individuals in each of three replicates (A,B,C) for each of the selection treatments (UP, DOWN, CONTROL) 
+1. Response to selection. Using a synthetic outbred population, lines were selected for 7 generations based on similarity to shape change vector (either *ds* or *emc*). Pools consist of 75 individuals in each of three replicates (A,B,C) for each of the selection treatments (UP, DOWN, CONTROL) 
 
 2. Natural populations. Cohorts were collected from 4 natural populations in Michigan and phenotyped based on similarity to the focal gene (*ds* or *neur*) shape change vector. Pools consist of the most extreme individuals from the corresponding distributions. Pools consist of 75 individuals for each pool, within each of the 4 populations. 
 

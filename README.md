@@ -1,4 +1,4 @@
-# WingShapeBSA
+# Code and Data for Pelletier et al (2023) Genetics
 
 This is the landing page for the repository for the data and scripts to reproduce the results from:
 

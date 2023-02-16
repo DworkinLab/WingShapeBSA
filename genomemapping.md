@@ -35,7 +35,7 @@ This step identifies the indels in the files
 
 Realignment step
 
-[GATK reallign](./GenomicMapping/gatkalign.txt) 
+[GATK realign](./GenomicMapping/gatkalign.txt) 
 
 Finally, I removed duplicate reads using Picard 
 

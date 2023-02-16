@@ -4,8 +4,8 @@ library(magick)
 library(gridGraphics)
 
 ######
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R" )
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WRP_FUNCTIONS.R" )
+source( "../src/WINGPLOTSOURCE.R" )
+source( "../src/WRP_FUNCTIONS.R" )
 #####
 #need some wings to plot against. 
 wildwings <- read.csv("../Data/BSA_all_wings.csv")

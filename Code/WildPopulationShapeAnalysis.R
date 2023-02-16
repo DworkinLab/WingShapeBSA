@@ -3,8 +3,8 @@ library(tidyverse)
 library(emmeans)
 
 ########################
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WRP_FUNCTIONS.R" )
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R" )
+source( "../src/WRP_FUNCTIONS.R" )
+source( "../src/WINGPLOTSOURCE.R" )
 ###########################
 
 ##### Edited from the WRP_functions file to round better. 
@@ -484,7 +484,7 @@ boys <- geomorph.data.frame(shape = shape,
                             ind = boysonly$ind,
                             block = boysonly$block)
 
-source("~/Dropbox/KatiePelletier/KP_geomorphwingfunctions.R")
+source("./KP_geomorphwingfunctions.R")
 
 png("../Figures/all_wild_boysPlot.png")
 plotAllSpecimens(boys$shape, 

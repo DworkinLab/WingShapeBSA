@@ -1,7 +1,7 @@
 poolwings <- read.csv("../Data/selectedshape_75tails_ds.csv", stringsAsFactors = T)
 
 str(poolwings)
-source('~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R', chdir = TRUE)
+source('../src/WINGPLOTSOURCE.R', chdir = TRUE)
 
 selvec <- read.csv( "../Data/seldict_vectors.csv" )
 str( selvec )

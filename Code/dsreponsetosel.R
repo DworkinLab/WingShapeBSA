@@ -240,9 +240,9 @@ dev.off()
 
 
 #I will use Will's plotting functions here. 
-source('~/Dropbox/DworkinLabSharedMaterial/scripts/WRP_FUNCTIONS.R', chdir = TRUE)
+source('../src/WRP_FUNCTIONS.R', chdir = TRUE)
 
-source('~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R', chdir = TRUE)
+source('../src/WINGPLOTSOURCE.R', chdir = TRUE)
 
 ####################################
 #plots for the paper

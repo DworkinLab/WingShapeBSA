@@ -1,9 +1,9 @@
 rm( list= ls() )
 
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WRP_FUNCTIONS.R" )
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R" )
+source( "../src/WRP_FUNCTIONS.R" )
+source( "../src/WINGPLOTSOURCE.R" )
 
-#setwd( "~/Dropbox/IanShare/BulkSegregant/" )
+
 wings <- read.csv( "BSA_wings.csv" )
 
 names( wings )

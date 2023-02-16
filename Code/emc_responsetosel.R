@@ -11,9 +11,9 @@ library(geomorph)
 
 
 #I will use Will's plotting functions here. 
-source('~/Dropbox/DworkinLabSharedMaterial/scripts/WRP_FUNCTIONS.R', chdir = TRUE)
+source('../src/WRP_FUNCTIONS.R', chdir = TRUE)
 
-source('~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R', chdir = TRUE)
+source('../src/WINGPLOTSOURCE.R', chdir = TRUE)
 
 projFunction <- function(x, y) {
   scalarProj <- (x %*% y) / norm(y, type = "2")
@@ -666,7 +666,7 @@ WingBlur3(crapwingsf.plot)
 
 #############Shape change figures for the paper##############
 
-source("~/Dropbox/KatiePelletier/KP_geomorphwingfunctions.R")
+source("~./KP_geomorphwingfunctions.R")
 
 #this magnitude is WAY too big and you can't see anything.
 meanshape <- as.numeric(selvec[3,3:98])/10

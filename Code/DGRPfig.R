@@ -1,7 +1,7 @@
 #Drawing the cor plots between selection vecs and DGRP shape to get the numbers and make the figure for the paper. 
 #using the landmarks because the estimated G didn't have this relationship 
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R" )
-source( "~/Dropbox/DworkinLabSharedMaterial/scripts/WRP_FUNCTIONS.R" )
+source( "../src/WINGPLOTSOURCE.R" )
+source( "../src/WRP_FUNCTIONS.R" )
 
 # For Ian only
 #source( "~/Dropbox/Dworkin_lab/DworkinLabSharedMaterial/scripts/WINGPLOTSOURCE.R" )

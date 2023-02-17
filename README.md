@@ -3,7 +3,8 @@
 This is the landing page for the repository for the data and scripts to reproduce the results from:
 
 Pelletier et al. (2023). Complexities of recapitulating polygenic effects in natural populations: replication of genetic effects on wing shape in artificially selected and wild caught populations of *Drosophila melanogaster*. Genetics. Accepted.
-doi for paper will be added when available. Currently the [preprint can be found here](https://www.biorxiv.org/content/10.1101/2022.05.12.491649v2).
+doi for paper will be added when available.  
+Currently the [preprint can be found here](https://www.biorxiv.org/content/10.1101/2022.05.12.491649v2).
 
 
 This contains work flows and scripts related to this project. 

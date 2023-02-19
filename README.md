@@ -3,14 +3,13 @@
 This is the landing page for the repository for the data and scripts to reproduce the results from:
 
 Pelletier et al. (2023). Complexities of recapitulating polygenic effects in natural populations: replication of genetic effects on wing shape in artificially selected and wild caught populations of *Drosophila melanogaster*. Genetics. Accepted.
-doi for paper will be added when available.  
+doi for paper will be added when available. 
 Currently the [preprint can be found here](https://www.biorxiv.org/content/10.1101/2022.05.12.491649v2).
 
 
 This contains work flows and scripts related to this project. 
 
-Please note: All raw sequence data (`.fastq`) is in the process of being uploaded to NCBI SRA. Accession identifiers will be added when the process of uploading and approval is completed.
-
+Please note all raw sequence data (`.fastq`) is uploaded to NCBI SRA. [The bioaccession is PRJNA936488/](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA936488/). Individual file accession numbers: SAMN33354503 - SAMN33354634.
 All data is pool sequencing data. Reads are 150 BP paired end sequencing. 
 
 This project consists of two primary "experiments": 
